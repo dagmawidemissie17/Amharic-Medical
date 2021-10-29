@@ -98,4 +98,4 @@ Any contributions are **greatly appreciated**. Please feel free to add any featu
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-This app's creation started during Fall 2021 with two Software Engineering College Students based in Seattle, WA. It was created by [Dagmawi Demissie](https://github.com/dagmawidemissie17), and [Poul Nichols](https://github.com/pouln)
+This app's creation started during Fall 2021 with two Software Engineering College Students based in Seattle, WA. It was created by [Dagmawi Demissie](https://github.com/dagmawidemissie17), and [Poul Nichols](https://github.com/pouln).
