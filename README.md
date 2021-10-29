@@ -1,5 +1,3 @@
-# Amharic-Medical
-A mobile App for a unique style, step-by-step, and best option to learning and teaching medical terminology in the Amharic language.
 <!-- PROJECT NAME -->
 <p align="center">
   <h1 align="center">Amharic-Medical Terminology App</h1>
