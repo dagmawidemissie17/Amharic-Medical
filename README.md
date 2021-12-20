@@ -44,7 +44,7 @@ He currently have the book in a hard copy and softcopy at [Amazon](https://www.a
 
 ### Built With
 
-- [React Vative CLI](https://reactnative.dev/)
+- [React Native Expo](https://expo.dev/)
 
 <!-- GETTING STARTED -->
 ## Getting Started
