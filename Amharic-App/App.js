@@ -1,20 +1,21 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import "react-native-gesture-handler";
+import React from "react";
+import { NavigationContainer } from "@react-navigation/native";
+import { SafeAreaProvider } from "react-native-safe-area-context";
+import { DefaultDrawer } from "./components/routes/Drawers";
 
-export default function App() {
+// Ignore the Reanimated 2 warning
+import { LogBox } from "react-native";
+LogBox.ignoreLogs(["Reanimated 2"]);
+
+const App = () => {
   return (
-    <View style={styles.container}>
-      <Text>Welcome to the Amharic App!</Text>
-      <StatusBar style="auto" />
-    </View>
+    <SafeAreaProvider>
+      <NavigationContainer>
+        <DefaultDrawer />
+      </NavigationContainer>
+    </SafeAreaProvider>
   );
-}
+};
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
+export default App;
