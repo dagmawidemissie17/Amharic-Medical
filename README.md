@@ -59,7 +59,7 @@ Prerequisites:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/brendenwest/cascade
+   git clone https://github.com/dagmawidemissie17/Amharic-Medical
    ```
 2. Install NPM packages 
    ```sh
